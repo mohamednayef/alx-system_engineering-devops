@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Hello, Worled\n"
+echo "Hello, Worled"
